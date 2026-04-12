@@ -1,0 +1,13 @@
+# Compiled Objects and Executables
+*.o
+*.out
+*.exe
+chronolock
+chronolock.exe
+
+# Logs
+logs.txt
+
+# OS Generated
+.DS_Store
+Thumbs.db
